@@ -1,2 +1,2 @@
-## minishift DNS playground
+## Minishift DNS playground
 -----------------------------
